@@ -1,7 +1,11 @@
-import math
+import math # Problema arreglado
 from typeguard import typechecked
 from math_fun import *
 
+
+"""
+Clase para crear números complejos y puntos polares
+"""
 
 class Numero_Complejo:
     @typechecked
